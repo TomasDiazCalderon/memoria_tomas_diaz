@@ -47,3 +47,11 @@ Para compilar el proyecto, es necesario tener la librería Ibex instalada.
    ./ibexopt [ibex-lib-path]/benchs/optim/medium/himmel16.bch 
 ```
 
+## Uso
+
+El proyecto cuenta con dos modos principales de ejecución que modifican el comportamiento de la política Softmax del agente.
+
+### 1. Entrenamiento (Explotación)
+
+En este modo, el agente interactúa activamente con el entorno para poblar la tabla Q, utilizando la temperatura $\tau$ dinámica para permitir una mayor exploración en el árbol de búsqueda.
+
