@@ -23,7 +23,7 @@ Al ingresar al repositorio, el proyecto se organiza en dos directorios principal
 │   └── Validación/                       # Resultados de la propuesta y comparación con el estado del arte
 ├── benchs/
 │   └── optim/
-│       └── benchs_victor_fixxed/         # Instancias NCOP personalizadas (Víctor Reyes Rodríguez)
+│       └── benchs_victor_fixxed/         # Benchmarks adicionales que no se encuentran en el Ibex base
 ├── src/                                  # Código fuente modificado para la integración en Ibex
 │   └── optim/
 │       ├── ibex_Optimizer.h
