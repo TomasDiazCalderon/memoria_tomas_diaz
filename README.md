@@ -16,5 +16,7 @@ Al ingresar al repositorio, el proyecto se organiza en dos directorios principal
 │   ├── Pruebas de estados/               # Pruebas individuales de estados para encontrar la configuración óptima
 │   └── Validación/                       # Resultados de la propuesta y comparación con el estado del arte
 └── benchs/
-    └── optim/
-        └── benchs_victor_fixxed/         # Instancias NCOP personalizadas independientes de la instalación base de Ibex
+|    └── optim/
+|        └── benchs_victor_fixxed/         # Instancias NCOP personalizadas independientes de la instalación base de Ibex
+|
+└── train_ql.sh                            # Script para ejecutar un entrenamiento
