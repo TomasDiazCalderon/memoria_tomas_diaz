@@ -29,8 +29,15 @@ Al ingresar al repositorio, el proyecto se organiza en dos directorios principal
 |
 |
 |
-└── src/                                   # Código fuente modificaco para Ibex
+└── src/                                   # Código fuente modificado para Ibex
     └── optim/
         ├── ibex_Optimizer.h
         ├── ibex_Optimizer.cpp
-         
+
+```
+
+## Instalación y compilación
+
+Para compilar el proyecto, es necesario tener la librería Ibex instalada.
+
+1. **Clonación de repositorio**: 
