@@ -44,7 +44,12 @@ Para compilar el proyecto, es necesario tener la librería Ibex instalada.
 ```text
    git clone https://github.com/TomasDiazCalderon/memoria_tomas_diaz.git
 ```
-2. **Reemplazar archivos**: Copiar los ficheros de src/optim a la carpeta ```src/optim``` de Ibex. Insertar archivo ```train_ql.sh``` y ```q_table_trained.txt``` de ```Pruebas de estado y entrenamiento/Entrenamiento 5``` en la carpeta ```build/bin``` de Ibex.
+2. **Reemplazar archivos**: Copiar los ficheros de ```src/optim``` a la carpeta ```src/optim``` de Ibex. Insertar archivo ```train_ql.sh``` y ```q_table_trained.txt``` de ```Pruebas de estado y entrenamiento/Entrenamiento 5``` en la carpeta ```build/bin``` de Ibex.
+3. **Compilación**: Siga las instrucciones de compilación de la biblioteca Ibex, un ejemplo de ejecución abajo.
+
+```text
+   ./ibexopt [ibex-lib-path]/benchs/optim/medium/himmel16.bch 
+```
 
 
 ## Uso
