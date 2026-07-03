@@ -24,11 +24,7 @@ Al ingresar al repositorio, el proyecto se organiza en dos directorios principal
 └── benchs/
 |    └── optim/
 |        └── benchs_victor_fixxed/         # Instancias NCOP personalizadas independientes de la instalación base de Ibex
-|
 └── train_ql.sh                            # Script para ejecutar un entrenamiento
-|
-|
-|
 └── src/                                   # Código fuente modificado para Ibex
     └── optim/
         ├── ibex_Optimizer.h
