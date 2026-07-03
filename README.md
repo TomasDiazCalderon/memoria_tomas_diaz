@@ -36,7 +36,7 @@ Al ingresar al repositorio, el proyecto se organiza en dos directorios principal
 
 ```
 
-## Instalación y compilación
+## Instalación
 
 Para compilar el proyecto, es necesario tener la librería Ibex instalada.
 
@@ -44,5 +44,9 @@ Para compilar el proyecto, es necesario tener la librería Ibex instalada.
 ```text
    git clone https://github.com/TomasDiazCalderon/memoria_tomas_diaz.git
 ```
-2. **Reemplazar archivos**: Copiar los ficheros de src/optim a la carpeta ```text src/optim``` de Ibex. Insertar archivo train_ql.sh en la carpeta build/bin de Ibex.
- 
+2. **Reemplazar archivos**: Copiar los ficheros de src/optim a la carpeta ```src/optim``` de Ibex. Insertar archivo ```train_ql.sh``` y ```q_table_trained.txt``` de ```Pruebas de estado y entrenamiento/Entrenamiento 5``` en la carpeta ```build/bin``` de Ibex.
+
+
+## Uso
+
+La propuesta se activa automáticamente
