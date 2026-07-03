@@ -6,7 +6,7 @@ Este repositorio contiene la arquitectura de software, los scripts de entrenamie
 
 El proyecto se divide en módulos que reflejan las fases del framework experimental:
 
-## 📁 Estructura del Repositorio
+## Estructura del Repositorio
 
 Al ingresar al repositorio, el proyecto se organiza en dos directorios principales que separan el núcleo experimental del conjunto de datos extendido:
 
