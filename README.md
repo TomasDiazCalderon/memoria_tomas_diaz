@@ -41,3 +41,8 @@ Al ingresar al repositorio, el proyecto se organiza en dos directorios principal
 Para compilar el proyecto, es necesario tener la librería Ibex instalada.
 
 1. **Clonación de repositorio**: 
+```text
+   git clone https://github.com/TomasDiazCalderon/memoria_tomas_diaz.git
+```
+2. **Reemplazar archivos**: Copiar los ficheros de src/optim a la carpeta ```text src/optim``` de Ibex. Insertar archivo train_ql.sh en la carpeta build/bin de Ibex.
+ 
