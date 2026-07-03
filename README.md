@@ -51,7 +51,3 @@ Para compilar el proyecto, es necesario tener la librería Ibex instalada.
    ./ibexopt [ibex-lib-path]/benchs/optim/medium/himmel16.bch 
 ```
 
-
-## Uso
-
-La propuesta se activa automáticamente
