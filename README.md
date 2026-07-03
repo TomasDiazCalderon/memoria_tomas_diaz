@@ -2,6 +2,12 @@
 
 Este repositorio contiene la arquitectura de software, los scripts de entrenamiento, el análisis y el registro histórico de pruebas desarrollados en el marco de la Memoria de Título para optar al título de Ingeniero Civil en Informática y Telecomunicaciones en la Universidad Diego Portales (2026).
 
+## Descripción general
+
+Este proyecto aborda las limitaciones críticas en la resolución de problemas de optimización numérica con restricciones (NCOP) en el algoritmo Branch and Bound, las cuales corresponden a un crecimiento exponencial del árbol de búsqueda y el estancamiento en regiones infactibles. Este trabajo presenta una estrategia de reinicio dinámica que utiliza algoritmos de clustering para identificar las regiones más prometedoras y reanudar la búsqueda a partir de ellas, siendo gestionadas por un agente inteligente de aprendizaje por refuerzo (RL).
+
+
+
 ## Estructura del Repositorio
 
 Al ingresar al repositorio, el proyecto se organiza en dos directorios principales que separan el núcleo experimental del conjunto de datos extendido:
